@@ -24,6 +24,7 @@
   <li>Utilização de bibliotecas externas para complementar o programa principal;</li>
   <li>Criando uma função no módulo especificamente para ajudar o usuário e entender qual função realiza qual execução dentro do programa principal, aninhada em uma condicional aninhada para o usuário interagir com o programa;</li>
   <li>Utilizando Laços para dar sequência programa ou se, se o usuário preferir, encerrar o programa em execução.</li>
+  <li>Criando DocStrings para realizar o manual de cada função dentro do módulo</li>
 </ul>
 <hr>
 <h3>Espero que gostem!</h3>
