@@ -10,7 +10,7 @@
   <li>Função dobro: Atribuída para realizar a multiplicação por 2 (dobro) do preço informado pelo usuário;</li>
   <li>Função metade: Atribuída para realizar a divisão por 2 (metade) do preço informado pelo usuário;</li>
   <li>Função moeda: Atribuída para realizar a formatação do preço informado pelo usuário em R$;</li>
-  <li>Função ajuda: Atribuída para armazenar todo manual de instruções das funções acima mencionadas e executadas no programa principal de forma interativa para o usuário se ele aceitar a execução da condicional;</li>
+  <li>Função ajuda: Atribuída para armazenar todo manual de instruções das funções acima mencionadas no formato de <i>DocStrings</i> e executadas no programa principal de forma interativa para o usuário se ele aceitar a execução da condicional;</li>
 </ul>
 <hr>
 <h2>Habilidade Técnicas Empregadas na Linguagem:</h2>
